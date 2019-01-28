@@ -1,13 +1,3 @@
-/*
-Name:Kevin Davis
-Course:CS1063, Fall 2018, Dr.Johnson
-Purpose: This program creates points with  random x and y values 
-and stores them in an array. 
-It prints those values then finds the distance between 
-the consecutive points and prints them out.
-It then sorts the points and repeats the process.
-*/
-
 #include <iostream>
 #include <iomanip>
 #include "xyPoint.h"
@@ -47,9 +37,7 @@ int main()
 //******************************HEADING******************************
 void Heading()
 {
-	cout << "Name:Kevin Davis \n"
-		<< "Course:CS1063, Fall 2018, Dr.Johnson \n\n"
-		<< "Purpose: This program creates points with \n"
+	cout	<< "Purpose: This program creates points with \n"
 		<< "random x and y values and stores them in an array. \n"
 		<< "It prints those values then finds the distance \n"
 		<< "between the consecutive points and prints them out. \n"

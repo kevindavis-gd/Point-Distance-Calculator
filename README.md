@@ -1,2 +1,6 @@
 # Point-Distance-Calculator
-Creates random X and Y coordinates and calculates the distance between the points
+Purpose: This program creates points with  random x and y values 
+and stores them in an array. 
+It prints those values then finds the distance between 
+the consecutive points and prints them out.
+It then sorts the points and repeats the process.
